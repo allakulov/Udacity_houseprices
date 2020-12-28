@@ -5,9 +5,10 @@
 This project sets out to analyze the Ames Housing datasets, which are provided as part of a Kaggle competition available here: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 
 The project aims to answer the following main questions:
-1. What different segments of houses can we identify in the dataset?
-2. Can we predict house prices with high accuracy using the available attributes?
-3. What are the important attributes that influence the final sale prices of houses?
+1.	What different segments of residential houses can be identified in Ames, Iowa?
+2.	How accurately can supervised machine learning models predict house prices in Ames, Iowa?
+3.	What are the top 5 important attributes that influence the house prices in Ames, Iowa?
+
 
 
 ##  2. Data Understanding:
